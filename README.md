@@ -21,3 +21,10 @@ SentinelAI uses a 4-agent Plan-Act-Reflect architecture:
 - **Dataset:** UNSW-NB15 — a publicly available network traffic dataset with labeled attack categories (Normal, DoS, Exploits, etc.)
 - **Agent Framework:** Agentic loop architecture (Scanner → Triage → Response → Escalation)
 - **Development Platform:** Google Antigravity
+
+## About this Project
+- **Role:** AI Security Engineer
+- **Expert Concept:** Engineering Rigor (observability, tracing, deterministic evaluation)
+- **Basic Concepts:** Agentic Loops, Dynamic AI Data
+- **Publishing Pair:** AI Security Engineer × Engineering Rigor
+- **Dataset:** UNSW-NB15 (University of New South Wales, publicly available)
